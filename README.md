@@ -1,4 +1,4 @@
-<h1> Neural-Style-Transfer</h1>
+#Neural-Style-Transfer
 
 Neural Style Transfer is a process that uses Neural Network to apply the artistic style from one image to another image.
 
